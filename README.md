@@ -1,6 +1,8 @@
 ### Hi there 👋
 
+I'm Mohamed Elhadary, an Integrated Engineering student at the University of British Columbia. I specialize in Computer and Mechanical engineering. I love to build innovative products designed to solve problems in various domains. This is why I have a wide range of interests and technical skills, belonging to fields such as:
 
+<--
 **moelhadary/moelhadary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,6 +15,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
 
 
