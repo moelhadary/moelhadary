@@ -1,20 +1,45 @@
 ### Hi there 👋
 
-I'm **Mohamed Elhadary**, an Integrated Engineering student at the University of British Columbia. I specialize in Computer and Mechanical engineering. I love to build innovative products designed to solve problems in various domains. This is why I have a wide range of interests and technical skills, belonging to fields such as:
+I'm **Mohamed Elhadary**, an Integrated Engineering student at the University of British Columbia, specializing in Computer (Software) Engineering and Mechanical Engineering. My passion is in leveraging technology to innovate and solve complex challenges across various domains.
 
-<!--
-**moelhadary/moelhadary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Fields of Expertise
+- 🖥️ **Software Engineering:** Proficient in JavaScript, Python, and C/C++, focusing on developing scalable software solutions.
+- 🧠 **Machine Learning & Computer Vision:** Experienced in applying AI to analyze visual data and improve system interactions, with skills in Python and MATLAB.
+- 🤖 **Robotics:** Designing intelligent robotic systems capable of performing automated tasks, enhanced through my control and automation engineering internships.
+- 🕹️ **Control Systems:** Skilled in logic circuit design and SCADA systems, with practical experience in industrial settings to enhance system efficiencies.
+- 💼 **Entrepreneurship:** Leader in technology-driven initiatives with a proven track record of managing projects and fostering innovation in academic and professional settings.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Fields of Expertise
+- 🖥️ **Software Engineering:** Advanced proficiency in creating software solutions with a strong foundation in JavaScript, Python, C/C++, and the use of UML for software modeling.
+- 🧠 **Machine Learning & Computer Vision:** Skilled in employing AI techniques to analyze and interpret complex visual data, utilizing tools like Python and MATLAB for data processing and model development.
+- 🤖 **Robotics and Automation:** Experienced in robotics and control systems, having designed logic circuits and interfaces using PLC software and SCADA systems during internships, improving system efficiency.
+- 🔧 **Industrial and Mechanical Engineering:** Knowledge in mechanics of materials, applied electronics, and electromechanics, combining computer and mechanical engineering principles in practical applications.
+- ⚙️ **ASIC/FPGA Design:** Technical skills in ASIC/FPGA design and microcontrollers, demonstrating expertise in digital systems and microcomputer applications.
+- 💼 **Entrepreneurship and Leadership:** Demonstrated leadership in managing technology-driven projects and student organizations, focusing on innovation and effective project management in academic and professional settings.
 
 
+### Technical Skills
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=matlab&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+### Select Projects
+- **TravelAI**: A web application integrating Google and OpenAI APIs to create personalized travel itineraries. Technologies: JavaScript, Node.js, React.js, MongoDB.
+- **HungerCog Analysis**: A machine learning project analyzing EEG data to study the impact of hunger on cognitive functions. Technologies: Python, NumPy, SciKit-Learn.
+- **Machinery Monitoring System**: Developed a real-time monitoring system for machinery using Bluetooth sensors. Technologies: JavaScript, Node.js.
+
+### Professional Experience
+- **Yokogawa** - Control and Automation Engineering Intern. Improved system efficiency by 20% through innovative circuit design.
+- **Carritec, Inc.** - Project Estimator/Coordinator. Optimized project costs and collaborated with design teams to enhance client satisfaction.
+
+### Leadership Roles
+- **President**, UBC Egyptian Student Association: Leading a vibrant student community, organizing events, and fostering collaborations.
+- **Team Lead**, UBC Envision - Green Joule: Directed biofuel extraction research, showcasing findings in a major student competition.
+
+### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedelhadary)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/moelhadary)
