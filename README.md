@@ -6,8 +6,8 @@ I'm **Mohamed Elhadary**, an Integrated Engineering student at the University of
 - 🖥️ **Software Engineering:** Proficient in JavaScript, Python, and C/C++, focusing on developing scalable software solutions.
 - 🌐 **Web Development:** Skilled in full-stack development with extensive experience using React.js, Node.js, and MongoDB to create dynamic and responsive websites. Completed projects like TravelAI, integrating APIs for enhanced user functionalities.
 - 🧠 **Machine Learning & Computer Vision:** Experienced in applying AI to analyze visual data and improve system interactions, with skills in Python and MATLAB.
-- 🤖 **Robotics:** Designing intelligent robotic systems capable of performing automated tasks, enhanced through my control and automation engineering internships.
 - 🕹️ **Control Systems:** Skilled in logic circuit design and SCADA systems, with practical experience in industrial settings to enhance system efficiencies.
+- 🤖 **Robotics:** Designing intelligent robotic systems capable of performing automated tasks
 - 🔧 **Industrial and Mechanical Engineering:** Knowledge in mechanics of materials, applied electronics, and electromechanics, combining computer and mechanical engineering principles in practical applications.
 - 💼 **Entrepreneurship and Leadership:** Demonstrated leadership in managing technology-driven projects and student organizations, focusing on innovation and effective project management in academic and professional settings.
 
