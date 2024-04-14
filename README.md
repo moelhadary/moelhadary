@@ -35,5 +35,5 @@ I'm **Mohamed Elhadary**, an Integrated Engineering student at the University of
 - **Team Lead**, UBC Envision - Green Joule: Directed biofuel extraction research, showcasing findings in a major student competition.
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedelhadary)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedelh)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/moelhadary)
