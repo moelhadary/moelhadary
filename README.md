@@ -4,17 +4,11 @@ I'm **Mohamed Elhadary**, an Integrated Engineering student at the University of
 
 ### Fields of Expertise
 - 🖥️ **Software Engineering:** Proficient in JavaScript, Python, and C/C++, focusing on developing scalable software solutions.
+- 🌐 **Web Development:** Skilled in full-stack development with extensive experience using React.js, Node.js, and MongoDB to create dynamic and responsive websites. Completed projects like TravelAI, integrating APIs for enhanced user functionalities.
 - 🧠 **Machine Learning & Computer Vision:** Experienced in applying AI to analyze visual data and improve system interactions, with skills in Python and MATLAB.
 - 🤖 **Robotics:** Designing intelligent robotic systems capable of performing automated tasks, enhanced through my control and automation engineering internships.
 - 🕹️ **Control Systems:** Skilled in logic circuit design and SCADA systems, with practical experience in industrial settings to enhance system efficiencies.
-- 💼 **Entrepreneurship:** Leader in technology-driven initiatives with a proven track record of managing projects and fostering innovation in academic and professional settings.
-
-### Fields of Expertise
-- 🖥️ **Software Engineering:** Advanced proficiency in creating software solutions with a strong foundation in JavaScript, Python, C/C++, and the use of UML for software modeling.
-- 🧠 **Machine Learning & Computer Vision:** Skilled in employing AI techniques to analyze and interpret complex visual data, utilizing tools like Python and MATLAB for data processing and model development.
-- 🤖 **Robotics and Automation:** Experienced in robotics and control systems, having designed logic circuits and interfaces using PLC software and SCADA systems during internships, improving system efficiency.
 - 🔧 **Industrial and Mechanical Engineering:** Knowledge in mechanics of materials, applied electronics, and electromechanics, combining computer and mechanical engineering principles in practical applications.
-- ⚙️ **ASIC/FPGA Design:** Technical skills in ASIC/FPGA design and microcontrollers, demonstrating expertise in digital systems and microcomputer applications.
 - 💼 **Entrepreneurship and Leadership:** Demonstrated leadership in managing technology-driven projects and student organizations, focusing on innovation and effective project management in academic and professional settings.
 
 
