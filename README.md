@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moelhadary)](https://github.com/anuraghazra/github-readme-stats)
 I'm **Mohamed Elhadary**, an Integrated Engineering student at the University of British Columbia, specializing in Computer (Software) Engineering and Mechanical Engineering. My passion is in leveraging technology to innovate and solve complex challenges across various domains.
 
 ### Fields of Expertise
